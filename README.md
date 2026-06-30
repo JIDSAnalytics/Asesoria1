@@ -8,6 +8,6 @@ Chile.csv: base de datos original para la zona del sur de Chile.
 Base_procesada.csv: base de datos consolidada y procesada utilizada para la asesoría I.   
 Información geoespacial: Archivos PBD (conjunto de archivos geoespaciales requeridos para la elaboración de mapas, datos y gráficos georreferenciados).
 
-Es relevante mencionar que tanto chile2, alaska2, base_procesada35 fueron empleadas para el análisis de 
+Es relevante mencionar que tanto chile2, alaska2, base_procesada35 fueron empleadas para el análisis de completitud.
 ## **Código**
-CódigoAsesroiaIJIDSAnalytics.R: script principal desarrollado en R que permite reproducir los procedimientos realizados en la asesoría.
+CódigoAsesoriaIJIDSAnalytics.R: script principal desarrollado en R que permite reproducir los procedimientos realizados en la asesoría.
