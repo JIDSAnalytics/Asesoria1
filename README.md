@@ -9,4 +9,4 @@ Base_procesada.csv: base de datos consolidada y procesada utilizada para la ases
 Información geoespacial: Archivos PBD (conjunto de archivos geoespaciales requeridos para la elaboración de mapas, datos y gráficos georreferenciados).
 
 ## **Código**
-CódigoAsesroiaIJIDSAnalytics.R: script principal desarrollado en R que permite reproducir los procedimientos realizados en el preinforme.
+CódigoAsesroiaIJIDSAnalytics.R: script principal desarrollado en R que permite reproducir los procedimientos realizados en la asesoría.
