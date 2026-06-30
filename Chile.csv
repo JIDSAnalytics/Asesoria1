@@ -1,0 +1,157 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-23T03:36:49.520Z,-40.1528,-74.99,18.248,5.2,mww,152,134,1.232,0.69,us,us6000rc7s,2025-12-06T16:00:09.040Z,"136 km WSW of Corral, Chile",earthquake,7.36,3.767,0.042,55,reviewed,us,us
+2025-05-13T00:48:00.569Z,-51.3717,-71.8409,10,5.2,mww,72,100,1.497,0.64,us,us7000pyxf,2025-07-24T21:30:16.040Z,"35 km NE of 28 de Noviembre, Argentina",earthquake,7.73,1.686,0.083,14,reviewed,us,us
+2025-02-22T22:20:25.318Z,-45.5785,-76.6977,10,5.4,mww,54,115,2.286,0.87,us,us7000pfih,2025-05-06T21:39:19.040Z,"Off the coast of Aisen, Chile",earthquake,8.71,1.843,0.054,33,reviewed,us,us
+2025-02-16T07:08:44.554Z,-38.4993,-73.7663,20.394,5,mww,61,141,1.404,0.85,us,us7000pe2h,2025-05-02T16:26:19.040Z,"57 km WNW of Carahue, Chile",earthquake,7.03,4.807,0.071,19,reviewed,us,us
+2024-12-07T06:26:27.323Z,-38.9157,-73.5759,36.959,5.3,mww,97,139,0.97,1.14,us,us7000nwtv,2025-02-16T07:30:39.673Z,"42 km WSW of Carahue, Chile",earthquake,7.94,5.895,0.052,35,reviewed,us,us
+2024-11-08T11:38:00.376Z,-46.7807,-75.6402,10,6.3,mww,85,52,2.139,0.71,us,us7000nql2,2025-01-24T19:51:23.040Z,"239 km WNW of Cochrane, Chile",earthquake,4.83,1.816,0.039,62,reviewed,us,us
+2024-09-03T01:21:40.316Z,-45.5961,-76.6765,10,5.3,mww,183,133,2.274,0.62,us,us6000npej,2024-11-15T16:19:49.040Z,"Off the coast of Aisen, Chile",earthquake,8.53,1.842,0.061,26,reviewed,us,us
+2024-08-26T16:21:49.528Z,-44.8712,-73.7141,58.483,5,mww,106,117,0.314,0.77,us,us6000nmw5,2024-11-09T21:18:15.040Z,"81 km W of Puerto Cisnes, Chile",earthquake,7.31,3.582,0.08,15,reviewed,us,us
+2023-12-24T03:32:48.403Z,-38.1075,-73.9764,10,5.1,mb,49,116,1.495,0.76,us,us7000ll6j,2024-03-02T21:39:39.040Z,"61 km WSW of Cañete, Chile",earthquake,7.06,1.828,0.091,40,reviewed,us,us
+2023-12-24T03:23:43.259Z,-38.0746,-73.8923,16,5.8,mww,72,131,1.437,1.12,us,us7000ll6h,2024-03-02T21:39:39.040Z,"53 km SW of Cañete, Chile",earthquake,5.04,1.792,0.043,51,reviewed,us,us
+2023-12-09T04:49:44.615Z,-45.7602,-75.8158,10.515,5.2,mww,34,116,1.732,0.65,us,us7000lhnw,2024-02-10T23:47:44.040Z,"236 km W of Puerto Chacabuco, Chile",earthquake,8.69,3.197,0.049,40,reviewed,us,us
+2023-08-28T23:25:01.412Z,-43.8022,-73.2189,77.393,5,mwr,136,78,1.17,0.69,us,us7000krpr,2023-11-04T21:35:43.040Z,"68 km WNW of La Junta, Chile",earthquake,6.63,4.616,0.08,15,reviewed,us,us
+2023-07-17T03:05:11.472Z,-38.1862,-70.4427,186,6.6,mww,134,18,1.61,0.63,us,us7000kg9g,2025-04-15T00:00:04.646Z,"19 km SE of Loncopué, Argentina",earthquake,6.06,1.803,0.047,44,reviewed,us,us
+2023-03-14T19:56:39.183Z,-38.3815,-75.2656,8,5.5,mww,166,35,2.071,0.84,us,us7000jjwt,2024-10-09T14:09:40.286Z,"165 km WSW of Lebu, Chile",earthquake,5.42,1.45,0.053,34,reviewed,us,us
+2022-12-30T05:19:18.616Z,-45.8405,-76.402,12.929,5.3,mww,72,141,2.146,0.58,us,us7000j10i,2023-03-07T18:59:59.040Z,"282 km W of Puerto Chacabuco, Chile",earthquake,8.82,4.482,0.05,39,reviewed,us,us
+2022-12-23T20:03:51.599Z,-45.5705,-76.7349,10,5.2,mww,161,31,2.311,0.58,us,us6000jbc1,2023-02-28T23:06:48.040Z,"Off the coast of Aisen, Chile",earthquake,7.1,1.726,0.052,36,reviewed,us,us
+2022-09-30T06:15:47.006Z,-45.7884,-76.1355,10,5.3,mww,46,164,1.953,0.73,us,us6000ipjd,2022-12-03T22:02:45.040Z,"Off the coast of Aisen, Chile",earthquake,5.39,1.928,0.057,30,reviewed,us,us
+2022-09-23T22:53:27.870Z,-41.3788,-75.5767,20,6.1,mww,233,49,1.582,0.6,us,us7000iam0,2022-12-02T19:49:24.851Z,"156 km WNW of Ancud, Chile",earthquake,6.71,1.763,0.044,49,reviewed,us,us
+2022-07-06T15:12:28.560Z,-42.2963,-75.3571,10,5.5,mww,131,32,2.185,0.54,us,us6000i09s,2022-09-13T06:23:06.040Z,"131 km W of Castro, Chile",earthquake,8.16,1.767,0.049,40,reviewed,us,us
+2021-10-13T07:55:29.195Z,-50.3221,-72.25,10,5.4,mww,,47,0.951,0.85,us,us6000fu6b,2025-12-22T22:17:42.095Z,"2 km NE of El Calafate, Argentina",earthquake,6.4,1.7,0.083,14,reviewed,us,us
+2020-12-27T21:46:59.081Z,-39.8451,-75.2256,10,5,mb,,124,1.385,0.72,us,us6000d6f8,2021-03-06T23:19:37.040Z,"153 km W of Corral, Chile",earthquake,8.3,1.9,0.133,18,reviewed,us,us
+2020-12-27T21:39:14.770Z,-39.3398,-74.9849,10,6.7,mww,,19,1.319,0.63,us,us6000d3i9,2025-12-22T19:05:18.065Z,"146 km WNW of Corral, Chile",earthquake,5.8,1.7,0.048,42,reviewed,us,us
+2020-04-01T04:09:21.850Z,-45.5913,-76.6302,10,5.2,mww,,33,3.057,0.8,us,us70008jxh,2025-12-22T18:37:03.142Z,"298 km W of Puerto Chacabuco, Chile",earthquake,7.4,1.7,0.056,31,reviewed,us,us
+2020-01-13T02:01:40.997Z,-40.2487,-71.2282,167.57,5.3,mww,,35,0.707,0.99,us,us70006yzw,2025-12-22T18:26:19.987Z,"14 km SE of San Martín de los Andes, Argentina",earthquake,6.3,4.1,0.063,24,reviewed,us,us
+2019-09-26T16:36:18.155Z,-40.8145,-71.9993,129,6.1,mww,,30,0.445,0.79,us,us70005lt4,2025-12-22T18:17:32.814Z,"30 km W of Villa La Angostura, Argentina",earthquake,4.5,1.8,0.058,29,reviewed,us,us
+2019-08-24T23:36:34.179Z,-43.135,-74.3145,20.04,5.1,mww,,33,0.476,0.75,us,us700057x3,2025-12-22T17:55:20.363Z,"Near the coast of Los Lagos, Chile",earthquake,4.8,3.1,0.069,20,reviewed,us,us
+2019-03-16T17:54:33.291Z,-45.651,-76.6689,10,5,mww,,120,3.104,0.94,us,us1000jh45,2025-12-22T18:06:20.748Z,"Off the coast of Aisen, Chile",earthquake,4.7,1.6,0.053,34,reviewed,us,us
+2019-03-07T05:10:37.114Z,-38.5233,-68.8567,13.84,5,mww,,66,2.565,0.83,us,us1000jbq5,2021-02-06T20:47:16.077Z,"19 km SSW of Añelo, Argentina",earthquake,6.5,4.2,0.093,11,reviewed,us,us
+2018-11-06T21:22:55.750Z,-45.534,-76.7622,10,5.3,mww,,140,2.661,0.73,us,us2000i7qy,2025-12-22T17:52:08.386Z,"Off the coast of Aisen, Chile",earthquake,8.6,1.8,0.075,17,reviewed,us,us
+2018-10-01T15:11:49.730Z,-45.7584,-75.8625,10,5.2,mww,,140,1.992,0.62,us,us1000h50j,2025-12-22T17:51:11.762Z,"Off the coast of Aisen, Chile",earthquake,8.4,1.9,0.053,34,reviewed,us,us
+2018-06-14T06:27:39.290Z,-45.8429,-76.3048,10,5.7,mww,,133,2.254,0.8,us,us1000er8i,2022-05-03T19:17:36.636Z,"Off the coast of Aisen, Chile",earthquake,8.4,1.7,0.073,18,reviewed,us,us
+2018-06-02T06:17:19.850Z,-38.2459,-73.7068,26.17,5.2,mww,,124,0.597,0.9,us,us1000ehan,2022-08-08T04:16:08.169Z,"56 km SSW of Cañete, Chile",earthquake,6.4,3.3,0.057,30,reviewed,us,us
+2018-03-02T18:06:46.170Z,-44.32,-76.1549,10,5.1,mww,,146,2.171,0.9,us,us2000db8n,2025-12-22T16:53:11.068Z,"244 km WSW of Quellón, Chile",earthquake,7,1.8,0.069,20,reviewed,us,us
+2017-08-18T20:31:50.930Z,-45.528,-76.6048,10,5.1,mww,,103,2.561,1.15,us,us2000a9je,2025-12-22T17:25:41.584Z,"296 km W of Puerto Chacabuco, Chile",earthquake,8.8,1.9,0.083,14,reviewed,us,us
+2017-06-23T10:00:52.200Z,-39.3845,-71.8027,115.45,5,mww,,28,0.324,0.86,us,us20009p84,2025-12-22T17:24:44.713Z,"17 km SE of Pucón, Chile",earthquake,5.1,2.9,0.068,21,reviewed,us,us
+2017-05-27T07:38:41.020Z,-45.7378,-75.6269,10,5.1,mwr,,136,1.849,1.14,us,us10008vpd,2022-05-03T18:30:24.191Z,"221 km W of Puerto Chacabuco, Chile",earthquake,6,1.9,0.075,17,reviewed,us,us
+2017-01-03T21:19:07.540Z,-43.3527,-74.5017,10.26,5.5,mww,,96,0.656,0.91,us,us10007piy,2022-05-03T18:16:52.674Z,"76 km WSW of Quellón, Chile",earthquake,4.1,1.7,0.071,19,reviewed,us,us
+2016-12-25T22:54:34.100Z,-43.2565,-74.4433,18.02,5.2,mwr,,130,0.587,0.74,us,us10007mrf,2017-03-23T22:52:03.040Z,"68 km WSW of Quellón, Chile",earthquake,4.9,3.7,,,reviewed,us,guc
+2016-12-25T14:32:13.310Z,-43.481,-74.4771,14.93,5.6,mb,,96,0.697,0.52,us,us10007mnb,2022-05-03T18:07:21.250Z,"80 km WSW of Quellón, Chile",earthquake,7.1,3.3,0.067,83,reviewed,us,us
+2016-12-25T14:22:27.010Z,-43.4064,-73.9413,38,7.6,mww,,29,0.355,0.79,us,us10007mn3,2024-04-17T11:07:38.805Z,"41 km SW of Quellón, Chile",earthquake,5.4,1.9,,,reviewed,us,us
+2016-12-05T07:33:19.170Z,-47.1545,-75.3081,35,5.2,mwr,,94,2.737,1,us,us10007exm,2017-03-03T07:06:03.040Z,"207 km W of Cochrane, Chile",earthquake,7.5,1.8,,,reviewed,us,guc
+2016-01-07T15:40:42.920Z,-41.6653,-74.0885,22.6,5,mww,,116,0.529,0.7,us,us10004c4b,2022-05-03T17:38:21.780Z,"32 km NW of Ancud, Chile",earthquake,5.6,3.5,,,reviewed,us,us
+2015-03-13T19:16:06.670Z,-44.5532,-73.0345,10.76,5,mb,,96,1.509,0.79,us,us10001m7j,2022-07-28T02:03:49.674Z,"34 km NW of Puerto Cisnes, Chile",earthquake,3.6,3.8,0.062,84,reviewed,us,us
+2014-03-02T17:03:41.700Z,-45.7209,-76.609,10,5.4,mwc,,79,3.352,0.89,us,usb000mzjs,2025-12-22T16:48:30.146Z,"297 km W of Puerto Chacabuco, Chile",earthquake,,1.8,,,reviewed,us,gcmt
+2014-03-02T16:18:28.280Z,-45.8292,-76.6762,10,5.1,mb,,74,3.466,0.88,us,usb000mzih,2025-12-22T16:48:28.932Z,"Off the coast of Aisen, Chile",earthquake,,1.8,0.08,55,reviewed,us,us
+2014-03-02T11:14:39.680Z,-45.7672,-76.5984,10,5.3,mb,,51,3.383,0.76,us,usb000mzfd,2025-12-22T16:48:27.816Z,"296 km W of Puerto Chacabuco, Chile",earthquake,,1.7,0.04,223,reviewed,us,us
+2014-03-02T10:12:21.950Z,-45.6934,-76.547,10,5.2,mb,,51,3.303,0.9,us,usb000mzeu,2025-12-22T16:48:26.578Z,"292 km W of Puerto Chacabuco, Chile",earthquake,,1.8,0.067,78,reviewed,us,us
+2014-02-10T04:13:44.350Z,-38.4428,-73.1942,38.03,5,mb,,88,3.066,1.21,us,usc000mlx1,2022-08-06T21:42:45.915Z,"29 km N of Carahue, Chile",earthquake,,3.5,0.074,63,reviewed,us,us
+2013-05-21T12:51:52.440Z,-45.528,-76.532,10,5.3,mb,154,39,,0.93,us,usb000h0sl,2025-12-22T16:40:14.034Z,"290 km W of Puerto Chacabuco, Chile",earthquake,,,,170,reviewed,us,us
+2013-04-13T09:19:04.880Z,-45.85,-75.697,10,5.4,mwc,72,108.4,,1.44,us,usb000g64f,2022-05-03T16:14:06.507Z,"228 km W of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,us,gcmt
+2012-07-06T06:16:47.000Z,-42.646,-74.015,32,5,mb,254,60,,,us,usp000jnp2,2015-03-24T02:21:31.804Z,"19 km W of Chonchi, Chile",earthquake,,,,183,reviewed,guc,us
+2012-01-06T08:08:40.460Z,-38.024,-75.091,29.8,5,mb,191,51.2,,0.71,us,usp000jd4a,2014-11-07T01:46:44.127Z,"134 km WSW of Lebu, Chile",earthquake,,11.4,,145,reviewed,us,us
+2012-01-05T00:54:31.110Z,-45.992,-76.472,10,5.3,mb,101,80.6,,0.93,us,usp000jd24,2025-12-22T16:10:59.993Z,"290 km W of Puerto Chacabuco, Chile",earthquake,,,,68,reviewed,us,us
+2011-12-22T15:06:32.600Z,-46.012,-76.349,13.8,5,mwc,77,108.1,,1.36,us,usp000jcge,2025-12-22T16:10:32.880Z,"281 km W of Puerto Chacabuco, Chile",earthquake,,28.9,,,reviewed,us,gcmt
+2011-12-16T12:54:25.370Z,-45.766,-76.056,10,5.8,mww,121,121.9,,0.97,us,usp000jc8u,2022-04-08T20:24:30.050Z,"254 km W of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,us,us
+2011-12-16T12:02:56.980Z,-45.828,-76.02,10,5.4,mwc,68,133.6,,0.98,us,usp000jc8s,2025-12-22T16:10:12.241Z,"252 km W of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,us,gcmt
+2011-11-25T17:35:47.180Z,-38.003,-75.032,39.1,5,mwc,208,54,,0.8,us,usp000jbcw,2025-12-22T16:09:24.808Z,"129 km WSW of Lebu, Chile",earthquake,,6.2,,,reviewed,us,gcmt
+2011-11-11T08:08:47.000Z,-38.035,-73.103,33.8,5.2,mwc,229,65.3,,,us,usp000japg,2022-04-08T22:11:21.475Z,"36 km SE of Cañete, Chile",earthquake,,,,,reviewed,guc,gcmt
+2011-10-25T22:08:45.640Z,-45.838,-72.641,32.3,5,mb,126,42.3,,1.24,us,usp000j9wu,2022-04-08T22:09:26.100Z,"43 km SSE of Puerto Chacabuco, Chile",earthquake,,15.9,,35,reviewed,us,us
+2011-10-07T19:54:03.400Z,-46.092,-75.361,30.3,5,mb,115,82.9,,0.94,us,usp000j923,2014-11-07T01:46:05.048Z,"209 km WSW of Puerto Chacabuco, Chile",earthquake,,14.3,,62,reviewed,us,us
+2011-09-03T16:20:53.220Z,-38.167,-73.651,20,5.81,mw,,,,,iscgem,iscgem17197881,2022-04-08T22:03:42.719Z,"46 km SSW of Cañete, Chile",earthquake,,4.2,0.1,,reviewed,iscgem,iscgem
+2011-06-04T16:28:47.680Z,-40.546,-71.901,9.8,5,mwc,65,62.8,,1.31,us,usp000j2qc,2022-07-19T16:56:57.204Z,"32 km NW of Villa La Angostura, Argentina",earthquake,,15.7,,,reviewed,us,gcmt
+2011-04-04T07:54:35.940Z,-45.719,-76.612,26.6,5.3,mwc,133,108.6,,0.95,us,usp000hz89,2025-12-22T16:02:11.133Z,"297 km W of Puerto Chacabuco, Chile",earthquake,,16.2,,,reviewed,us,gcmt
+2011-02-21T05:38:51.050Z,-45.761,-72.363,36.9,5,mwc,202,42.5,,0.91,us,usp000huue,2022-07-19T05:32:22.762Z,"31 km SW of Coyhaique, Chile",earthquake,,7.7,,,reviewed,us,gcmt
+2011-01-02T20:20:17.780Z,-38.355,-73.326,24,7.2,mww,397,30.1,,1.1,us,usp000hsfq,2022-08-09T03:48:09.579Z,"42 km NNW of Carahue, Chile",earthquake,,,,,reviewed,us,us
+2010-09-26T05:29:51.070Z,-40.459,-72.765,60.5,5,mwc,150,57.8,,0.79,us,usp000hm6j,2025-12-22T15:18:42.088Z,"21 km SE of Río Bueno, Chile",earthquake,,,,,reviewed,us,gcmt
+2010-08-09T12:13:43.000Z,-38.717,-73.149,38.7,5,mb,124,63.2,,,us,usp000hhtg,2022-08-08T23:18:42.125Z,"1 km ESE of Carahue, Chile",earthquake,,,,73,reviewed,guc,us
+2010-08-06T21:05:28.270Z,-38.255,-73.501,23,5,mb,76,64.5,,1,us,usp000hhpa,2022-07-18T18:05:52.822Z,"51 km S of Cañete, Chile",earthquake,,16.7,,28,reviewed,us,us
+2010-07-18T03:29:37.000Z,-41.947,-73.838,45,5,mb,119,75.3,,,us,usp000hfdk,2022-07-18T16:34:45.747Z,"8 km SSW of Ancud, Chile",earthquake,,,,65,reviewed,guc,us
+2010-07-15T01:02:02.000Z,-38.133,-74.169,27.2,5,mb,85,115.3,,,us,usp000hfa8,2014-11-07T01:41:53.336Z,"73 km SW of Lebu, Chile",earthquake,,,,52,reviewed,guc,us
+2010-07-14T15:05:50.400Z,-38.224,-73.23,35,5.8,mwc,192,42.4,,1.11,us,usp000hf9k,2022-07-18T16:14:38.543Z,"49 km W of Traiguén, Chile",earthquake,,,,,reviewed,us,gcmt
+2010-07-14T08:32:21.490Z,-38.067,-73.31,22,6.6,mwc,295,52.8,,0.86,us,usp000hf8z,2022-08-09T03:08:25.772Z,"30 km SSE of Cañete, Chile",earthquake,,,,,reviewed,us,gcmt
+2010-07-14T08:21:14.370Z,-38.098,-73.412,35,5.1,mb,164,65,,0.68,us,usp000hf8x,2022-07-18T16:11:28.046Z,"32 km S of Cañete, Chile",earthquake,,,,117,reviewed,us,us
+2010-07-09T22:57:17.810Z,-46.06,-75.589,14.9,5.3,mwc,68,108,,0.95,us,usp000hf2z,2022-05-02T22:02:49.614Z,"225 km WSW of Puerto Chacabuco, Chile",earthquake,,3.9,,,reviewed,us,gcmt
+2010-05-03T23:09:44.790Z,-38.072,-73.454,19,6.3,mwc,262,54.7,,1.07,us,usp000hc9m,2022-08-09T03:54:16.179Z,"30 km S of Cañete, Chile",earthquake,,,,,reviewed,us,us
+2010-03-18T09:32:21.000Z,-44.179,-72.832,4.4,5.2,mwc,117,110.8,,,us,usp000h9mm,2022-07-16T08:07:19.805Z,"41 km WSW of La Junta, Chile",earthquake,,,,,reviewed,guc,gcmt
+2010-03-17T17:38:33.060Z,-43.842,-72.569,10,5.4,mwc,116,47.3,,0.91,us,usp000h9k2,2022-07-16T07:55:51.783Z,"19 km NW of La Junta, Chile",earthquake,,,,,reviewed,us,gcmt
+2010-03-14T20:04:54.540Z,-38.526,-73.534,13,5.6,mwb,219,35.3,,0.91,us,usp000h9dd,2022-07-16T07:35:18.211Z,"38 km WNW of Carahue, Chile",earthquake,,,,,reviewed,us,us
+2010-03-14T14:01:18.190Z,-38.438,-73.596,35,5,mb,65,66.2,,1,us,usp000h9cz,2022-07-16T07:32:02.247Z,"48 km NW of Carahue, Chile",earthquake,,,,25,reviewed,us,us
+2010-03-14T13:52:22.690Z,-38.502,-73.653,23.2,5.5,mwc,165,63.7,,0.85,us,usp000h9cx,2022-07-16T07:30:29.161Z,"48 km WNW of Carahue, Chile",earthquake,,10.1,,,reviewed,us,gcmt
+2010-03-10T16:00:51.970Z,-38.093,-74.906,22.9,5.1,mwc,54,135.1,,1.08,us,usp000h933,2025-12-22T15:45:17.719Z,"122 km WSW of Lebu, Chile",earthquake,,25.4,,,reviewed,us,gcmt
+2010-03-07T16:18:28.840Z,-38.046,-73.5,21.4,5,mb,30,123.2,,0.73,us,usp000h8wf,2014-11-07T01:40:56.985Z,"28 km SSW of Cañete, Chile",earthquake,,,,5,reviewed,us,us
+2010-03-03T21:24:01.520Z,-38.453,-73.554,35,5,mb,66,83.6,,1.06,us,usp000h8n1,2022-07-16T04:44:27.583Z,"44 km NW of Carahue, Chile",earthquake,,,,26,reviewed,us,us
+2010-03-02T14:07:08.580Z,-39.508,-73.788,35,5.1,mwc,46,152.4,,1.04,us,usp000h8hj,2022-07-16T04:25:02.897Z,"52 km NW of Corral, Chile",earthquake,,,,,reviewed,us,gcmt
+2010-03-02T02:09:35.490Z,-39.76,-71.366,24.8,5.1,mwc,125,60.4,,0.74,us,usp000h8fh,2022-07-16T04:18:45.652Z,"33 km NW of Junín de los Andes, Argentina",earthquake,,11.2,,,reviewed,us,gcmt
+2010-03-01T03:53:16.160Z,-38.599,-73.113,35,5,mb,44,117.1,,0.79,us,usp000h8bm,2022-07-16T04:04:08.458Z,"13 km NNE of Carahue, Chile",earthquake,,,,12,reviewed,us,us
+2010-03-01T00:01:26.220Z,-38.308,-73.916,35,5.1,mb,70,53,,0.79,us,usp000h8av,2014-11-07T01:40:50.696Z,"72 km SW of Cañete, Chile",earthquake,,5.3,,31,reviewed,us,us
+2010-02-28T19:48:35.390Z,-38.099,-73.68,18,5.9,mwb,171,66.8,,0.8,us,usp000h89r,2022-07-16T04:00:58.506Z,"41 km SW of Cañete, Chile",earthquake,,,,,reviewed,us,us
+2010-02-28T12:19:00.220Z,-38.212,-73.383,35,5.2,mb,151,64.6,,0.88,us,usp000h87c,2022-07-16T03:56:09.352Z,"45 km S of Cañete, Chile",earthquake,,,,88,reviewed,us,us
+2010-02-28T10:43:10.150Z,-38.501,-75.273,35,5.1,mb,158,36.4,,1.02,us,usp000h86p,2014-11-07T01:40:48.392Z,"173 km SW of Lebu, Chile",earthquake,,,,88,reviewed,us,us
+2010-02-28T07:14:20.220Z,-38.386,-73.473,35,5.1,mb,102,34.8,,1.1,us,usp000h85p,2014-11-07T01:40:48.201Z,"45 km NW of Carahue, Chile",earthquake,,,,53,reviewed,us,us
+2010-02-28T04:47:29.600Z,-38.795,-73.873,5.9,5,mb,67,156.3,,1.07,us,usp000h84p,2014-11-07T01:40:48.063Z,"62 km W of Carahue, Chile",earthquake,,29.3,,35,reviewed,us,us
+2010-02-28T02:41:04.460Z,-38.385,-73.552,12,5.1,mb,139,54.8,,0.98,us,usp000h83j,2022-07-16T03:37:51.683Z,"49 km NW of Carahue, Chile",earthquake,,18.6,,70,reviewed,us,us
+2010-02-28T02:38:30.240Z,-38.32,-73.574,31.7,5.4,mb,228,34.1,,0.98,us,usp000h83h,2022-05-02T21:39:35.519Z,"56 km NW of Carahue, Chile",earthquake,,17.4,,132,reviewed,us,us
+2010-02-28T00:53:30.020Z,-38.145,-73.739,24,5.1,mb,162,115.2,,0.78,us,usp000h82d,2022-05-02T21:40:29.554Z,"48 km SW of Cañete, Chile",earthquake,,,,85,reviewed,us,us
+2010-02-27T16:21:13.090Z,-38.283,-73.429,35,5.4,mb,210,66.6,,0.88,us,usp000h7yp,2022-05-02T21:42:19.399Z,"52 km NNW of Carahue, Chile",earthquake,,,,129,reviewed,us,us
+2010-02-27T15:23:33.620Z,-38.278,-73.725,35,5.2,mb,52,75.3,,0.92,us,usp000h7y5,2014-11-07T01:40:46.671Z,"60 km SSW of Cañete, Chile",earthquake,,,,23,reviewed,us,us
+2010-02-27T13:09:20.900Z,-38.496,-73.645,35,5.3,mb,65,83.9,,0.71,us,usp000h7w2,2014-11-07T01:40:46.420Z,"48 km WNW of Carahue, Chile",earthquake,,,,18,reviewed,us,us
+2010-02-27T13:07:40.510Z,-38.554,-72.865,35,5,mb,55,111.9,,1.04,us,usp000h7w1,2014-11-07T01:40:46.414Z,"22 km NNE of Nueva Imperial, Chile",earthquake,,,,31,reviewed,us,us
+2010-02-27T11:26:59.250Z,-38.265,-73.716,35,5.2,mb,60,80.3,,0.95,us,usp000h7v1,2014-11-07T01:40:46.141Z,"58 km SSW of Cañete, Chile",earthquake,,,,29,reviewed,us,us
+2010-02-27T10:38:35.020Z,-38.191,-73.694,35,5.9,mb,161,32.5,,0.8,us,usp000h7uh,2022-05-02T21:38:22.810Z,"50 km SSW of Cañete, Chile",earthquake,,,,72,reviewed,us,us
+2010-02-27T09:59:20.380Z,-38.16,-73.652,35,5.8,mb,178,54.7,,0.81,us,usp000h7u5,2022-05-02T22:01:29.292Z,"45 km SSW of Cañete, Chile",earthquake,,,,83,reviewed,us,us
+2010-02-27T08:48:05.540Z,-38.495,-75.326,35,5.6,mb,148,65.2,,0.94,us,usp000h7t8,2022-05-02T22:37:27.610Z,"176 km WSW of Lebu, Chile",earthquake,,,,73,reviewed,us,us
+2010-02-27T07:33:30.720Z,-38.032,-73.393,35,5.6,mb,174,46.8,,0.86,us,usp000h7s5,2022-05-02T22:37:24.512Z,"25 km S of Cañete, Chile",earthquake,,,,99,reviewed,us,us
+2010-02-27T07:02:04.260Z,-38.099,-73.708,35,5.1,mb,12,165.5,,0.81,us,usp000h7rr,2014-11-07T01:40:45.425Z,"42 km SW of Cañete, Chile",earthquake,,,,1,reviewed,us,us
+2009-11-22T22:07:48.220Z,-39.634,-74.967,7,5.9,mwc,325,17.8,,0.9,us,usp000h4b2,2022-07-15T21:32:12.090Z,"134 km WNW of Corral, Chile",earthquake,,,,,reviewed,us,us
+2009-09-12T03:56:59.460Z,-45.64,-76.515,31.6,5,mwc,90,39.2,,0.92,us,usp000h1f6,2025-12-22T15:17:43.977Z,"289 km W of Puerto Chacabuco, Chile",earthquake,,16.6,,,reviewed,us,gcmt
+2009-06-29T03:07:30.910Z,-45.633,-76.495,10,5.3,mwc,71,51.2,,1.2,us,usp000gyqt,2025-12-22T15:32:03.886Z,"287 km W of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,us,gcmt
+2009-04-28T15:29:32.670Z,-48.293,-75.955,41.2,5.1,mwc,52,52.8,,0.87,us,usp000gwnc,2022-05-02T21:11:35.636Z,"278 km WSW of Cochrane, Chile",earthquake,,11.7,,,reviewed,us,gcmt
+2008-05-24T06:26:23.600Z,-42.025,-72.206,10,5,mb,103,113.3,,0.91,us,usp000g7mb,2022-05-02T19:40:01.347Z,"50 km W of Lago Puelo, Argentina",earthquake,,,,60,reviewed,us,us
+2008-05-24T02:43:36.000Z,-41.957,-72.187,9.4,5.4,mwc,224,57.5,,,us,usp000g7m1,2022-05-02T19:39:55.795Z,"49 km WNW of Lago Puelo, Argentina",earthquake,,,,,reviewed,guc,gcmt
+2008-05-03T02:36:12.780Z,-42.784,-72.246,10,5,mwc,113,72.4,,0.98,us,usp000g5cm,2022-05-02T19:39:22.771Z,"40 km ENE of Chaitén, Chile",earthquake,,,,,reviewed,us,gcmt
+2008-05-02T05:51:24.550Z,-42.766,-72.266,10,5.2,mwc,132,51.2,,1.1,us,usp000g5ag,2022-05-02T19:39:20.391Z,"39 km ENE of Chaitén, Chile",earthquake,,,,,reviewed,us,gcmt
+2008-04-11T01:29:45.520Z,-45.769,-75.222,10,5.1,mwc,39,159.6,,1.29,us,usp000g3me,2022-05-02T19:37:58.133Z,"190 km W of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,us,gcmt
+2008-03-29T01:34:35.450Z,-43.078,-74.102,27.4,5.1,mwc,71,112.2,,0.97,us,usp000g2kp,2022-07-13T20:30:27.768Z,"39 km W of Quellón, Chile",earthquake,,,,,reviewed,us,gcmt
+2008-02-29T22:51:34.520Z,-40.322,-75.077,10,5,mwc,134,62.1,,0.9,us,usp000g0av,2025-12-22T15:02:13.860Z,"148 km WSW of Corral, Chile",earthquake,,,,,reviewed,us,gcmt
+2008-01-30T10:29:23.210Z,-42.68,-74.049,27.5,5,mb,45,112.7,,1.02,us,usp000fxs4,2014-11-07T01:34:46.989Z,"23 km WSW of Chonchi, Chile",earthquake,,,,21,reviewed,us,us
+2007-12-13T05:34:02.800Z,-40.665,-72.233,9.2,5,mb,37,115.5,,,us,usp000fuc3,2014-11-07T01:34:24.955Z,"31 km E of Puyehue, Chile",earthquake,,,,5,reviewed,guc,us
+2007-10-16T13:37:53.020Z,-45.99,-76.367,10,5.2,mwc,58,68.1,,1.27,us,usp000fqpr,2025-12-22T15:29:53.559Z,"282 km W of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,us,gcmt
+2007-10-15T21:39:12.360Z,-46.128,-74.958,42.7,5.1,mb,63,116.7,,1.22,us,usp000fqmm,2014-11-07T01:33:56.324Z,"181 km WSW of Puerto Chacabuco, Chile",earthquake,,14.2,,22,reviewed,us,us
+2007-09-22T08:01:03.460Z,-45.913,-76.276,10,5.5,mwc,129,57.1,,1.01,us,usp000fnvz,2022-05-02T20:35:51.744Z,"273 km W of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,us,gcmt
+2007-08-19T07:42:24.490Z,-45.714,-72.538,35,5,mb,74,57.7,,0.99,us,usp000fk69,2022-05-02T20:26:15.267Z,"35 km SE of Puerto Chacabuco, Chile",earthquake,,,,29,reviewed,us,us
+2007-04-21T17:53:46.310Z,-45.243,-72.648,36.7,6.2,mwb,316,36.6,,0.98,us,usp000fa97,2025-02-19T18:49:22.361Z,"18 km N of Puerto Aysén, Chile",earthquake,,6.5,,,reviewed,us,us
+2007-04-02T02:49:35.900Z,-45.382,-73.058,4.9,6.1,mwc,204,48.1,,,us,usp000f86j,2022-05-02T20:07:58.947Z,"21 km WNW of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,guc,gcmt
+2007-02-23T19:55:48.600Z,-45.337,-72.319,25.1,5.7,mwc,156,36.6,,1.11,us,usp000f5fs,2022-07-14T07:40:17.944Z,"30 km ENE of Puerto Aysén, Chile",earthquake,,,,,reviewed,us,gcmt
+2007-02-10T06:03:02.480Z,-42.978,-71.56,157.3,5.5,mwc,184,47.2,,1.06,us,usp000f4kx,2022-05-02T19:54:30.315Z,"14 km NNW of Trevelin, Argentina",earthquake,,,,,reviewed,us,gcmt
+2007-02-03T09:00:15.790Z,-45.239,-72.236,10,5.3,mwc,60,122.1,,1.12,us,usp000f46q,2022-05-02T19:54:05.550Z,"39 km NNW of Coyhaique, Chile",earthquake,,,,,reviewed,us,gcmt
+2007-01-28T02:53:20.850Z,-45.157,-72.321,49.7,5.2,mwc,30,122.2,,0.82,us,usp000f3sz,2022-05-02T19:36:08.975Z,"39 km NE of Puerto Aysén, Chile",earthquake,,10.3,,,reviewed,us,gcmt
+2007-01-23T20:40:16.300Z,-45.313,-72.192,32,5.3,mwc,45,117.7,,1.24,us,usp000f3eq,2022-05-02T19:35:19.314Z,"30 km NNW of Coyhaique, Chile",earthquake,,8.1,,,reviewed,us,gcmt
+2006-11-20T19:33:54.610Z,-40.121,-75.042,15.7,5.2,mwc,124,83.8,,0.85,us,usp000eydg,2025-12-22T16:19:53.612Z,"139 km W of Corral, Chile",earthquake,,18.4,,,reviewed,us,gcmt
+2006-10-07T16:32:18.970Z,-45.701,-76.288,40.2,5.1,mwc,51,75,,0.88,us,usp000eune,2025-12-22T16:18:59.906Z,"272 km W of Puerto Chacabuco, Chile",earthquake,,10.1,,,reviewed,us,gcmt
+2006-05-30T02:50:09.850Z,-45.763,-75.519,36.3,5.7,mwc,66,51.7,,1.12,us,usp000ej9c,2022-05-02T18:20:58.865Z,"213 km W of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,us,hrv
+2006-04-28T18:21:54.960Z,-45.687,-76.248,10,5.3,mwc,28,126.7,,1.46,us,usp000efqb,2025-12-22T16:17:03.797Z,"268 km W of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,us,hrv
+2005-12-26T00:56:10.620Z,-38.953,-73.188,29.8,5.1,mwc,155,82.3,,0.81,us,usp000e6wj,2022-05-02T18:10:40.099Z,"26 km S of Carahue, Chile",earthquake,,,,,reviewed,us,hrv
+2005-12-21T22:19:46.220Z,-42.713,-74.058,25.8,5.2,mwc,60,134.1,,1.08,us,usp000e6k1,2022-05-02T18:10:33.109Z,"25 km WSW of Chonchi, Chile",earthquake,,,,,reviewed,us,hrv
+2005-10-10T16:07:00.280Z,-45.62,-76.566,35,5.1,mwc,21,137.7,,0.77,us,usp000e1hs,2025-12-19T23:23:17.432Z,"293 km W of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,us,hrv
+2004-11-04T08:29:16.580Z,-45.905,-76.445,25.6,5.3,mwc,49,121,,1.1,us,usp000d7nw,2025-12-19T23:17:26.680Z,"286 km W of Puerto Chacabuco, Chile",earthquake,,24,,,reviewed,us,hrv
+2004-11-04T08:10:17.870Z,-45.921,-76.553,25,5,mwc,42,119.7,,1.03,us,usp000d7nv,2025-12-19T23:17:25.807Z,"295 km W of Puerto Chacabuco, Chile",earthquake,,0,,,reviewed,us,hrv
+2004-08-30T16:08:17.860Z,-50.695,-72.137,24.7,5.1,mwc,48,119.8,,0.88,us,usp000d37j,2022-05-02T17:23:28.166Z,"40 km SSE of El Calafate, Argentina",earthquake,,17.5,,,reviewed,us,hrv
+2004-06-15T11:16:31.500Z,-38.854,-73.155,37.8,6.1,mwb,215,35.3,,0.93,us,usp000cxyk,2022-05-02T17:14:02.660Z,"15 km S of Carahue, Chile",earthquake,,,,,reviewed,us,us
+2003-11-12T01:54:24.310Z,-40.022,-74.868,29.6,5.6,mwc,131,94.5,,0.97,us,usp000ccnr,2022-05-02T16:53:31.495Z,"Off the coast of Los Lagos, Chile",earthquake,,,,,reviewed,us,hrv
+2003-10-28T05:10:49.890Z,-51.647,-75.56,33,5.2,mwc,29,121.5,,1.01,us,usp000cbes,2022-05-02T16:52:11.295Z,"211 km W of Puerto Natales, Chile",earthquake,,,,,reviewed,us,hrv
+2003-09-12T16:49:50.770Z,-51.635,-75.431,33,5.1,mb,34,143.5,,1.27,us,usp000c7c2,2014-11-07T01:19:48.588Z,"202 km W of Puerto Natales, Chile",earthquake,,,,15,reviewed,us,us
+2003-09-12T16:48:44.410Z,-51.623,-75.593,33,5.6,mwc,25,148.7,,0.88,us,usp000c7c1,2022-05-02T16:43:17.400Z,"213 km W of Puerto Natales, Chile",earthquake,,,,,reviewed,us,hrv
+2003-08-27T04:37:35.900Z,-39.157,-72.443,70.5,5.1,mb,42,117.5,,,us,usp000c61c,2014-11-07T01:19:35.773Z,"23 km NW of Villarrica, Chile",earthquake,,,,12,reviewed,guc,us
+2003-06-20T04:23:28.440Z,-45.571,-75.939,33,5.4,mwc,72,107.8,,0.95,us,usp000c0a6,2025-12-19T23:06:38.101Z,"244 km W of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,us,hrv
+2002-11-09T06:05:58.300Z,-48.145,-75.506,33,5.6,mwc,63,,,0.99,us,usp000bh5k,2022-05-02T16:16:10.301Z,"241 km WSW of Cochrane, Chile",earthquake,,,,,reviewed,us,hrv
+2002-10-31T20:36:54.190Z,-40.098,-74.716,33,5.2,mwc,150,,,0.94,us,usp000bfrm,2025-12-19T22:36:50.455Z,"112 km WSW of Corral, Chile",earthquake,,,,,reviewed,us,hrv
+2002-03-03T11:57:10.960Z,-45.718,-75.682,10,5.4,mb,53,,,1.21,us,usp000azha,2014-11-07T01:15:02.369Z,"225 km W of Puerto Chacabuco, Chile",earthquake,,,,30,reviewed,us,us
+2002-03-03T07:16:15.690Z,-45.837,-76.119,10,5.9,mwc,81,,,1.23,us,usp000azgv,2022-05-02T15:45:45.552Z,"260 km W of Puerto Chacabuco, Chile",earthquake,,,,,reviewed,us,hrv
+2001-10-23T23:54:24.610Z,-43.498,-75.894,33,5.2,mwc,38,,,0.9,us,usp000arhn,2025-12-19T22:52:56.925Z,"189 km WSW of Quellón, Chile",earthquake,,,,,reviewed,us,hrv
+2001-05-17T04:41:34.430Z,-38.639,-73.3,18.8,5,mb,68,,,1.08,us,usp000af1s,2022-04-29T19:25:49.240Z,"14 km WNW of Carahue, Chile",earthquake,,,,28,reviewed,us,us
+2001-03-03T11:58:13.350Z,-38.766,-74.555,33,5.9,mwc,188,,,1.12,us,usp000aaud,2022-04-29T19:08:39.429Z,"121 km W of Carahue, Chile",earthquake,,,,,reviewed,us,hrv
+2000-12-20T11:23:54.100Z,-39.008,-74.662,11,6.5,mwc,253,,,1.05,us,usp000a6e0,2022-04-29T19:01:53.556Z,"134 km WSW of Carahue, Chile",earthquake,,,,,reviewed,us,hrv
+2000-02-14T21:39:46.310Z,-45.791,-72.604,33,5,mb,,,,0.97,us,usp0009nfu,2022-04-29T18:32:11.268Z,"39 km SSE of Puerto Chacabuco, Chile",earthquake,,,,15,reviewed,us,us
+2000-02-14T09:28:54.360Z,-45.762,-72.812,33,5.1,mb,,,,0.78,us,usp0009ner,2022-04-29T18:31:59.810Z,"32 km S of Puerto Chacabuco, Chile",earthquake,,,,11,reviewed,us,us
